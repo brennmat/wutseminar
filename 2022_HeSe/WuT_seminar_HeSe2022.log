@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.8.9)  29 AUG 2022 10:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.8.9)  29 AUG 2022 11:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -174,6 +174,16 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 []\OT1/pplx/m/n/12 Andres Ve-lasquez
  []
 
+
+Underfull \hbox (badness 1668) in paragraph at lines 50--51
+[]\OT1/pplx/m/n/12 Simulating ground-wa-ter level fluc-tu-a-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+\OT1/pplx/m/n/12 with Long short-term mem-ory neu-ral
+ []
+
 [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
@@ -181,7 +191,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 44--45
 Here is how much of TeX's memory you used:
  1358 strings out of 478023
  23369 string characters out of 5841209
- 333757 words of memory out of 5000000
+ 334757 words of memory out of 5000000
  19837 multiletter control sequences out of 15000+600000
  481300 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -189,7 +199,7 @@ Here is how much of TeX's memory you used:
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ba
 se/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on WuT_seminar_HeSe2022.pdf (1 page, 35540 bytes).
+Output written on WuT_seminar_HeSe2022.pdf (1 page, 35991 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
