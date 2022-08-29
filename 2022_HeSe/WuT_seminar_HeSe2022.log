@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.8.9)  25 AUG 2022 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.8.9)  29 AUG 2022 09:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -165,6 +165,11 @@ LaTeX Font Info:    Trying to load font information for OT1+zplm on input line
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
+Underfull \hbox (badness 4229) in paragraph at lines 29--31
+\OT1/pplx/m/n/12 Com-mu-nity Cy-ber-Plat-form for Re-search,
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 31--32
 []\OT1/pplx/m/n/12 Room
  []
@@ -244,17 +249,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 96--97
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 (./WuT_seminar_HeSe2022.aux) ) 
 Here is how much of TeX's memory you used:
- 1357 strings out of 478023
- 23361 string characters out of 5841209
- 333757 words of memory out of 5000000
- 19836 multiletter control sequences out of 15000+600000
+ 1358 strings out of 478023
+ 23369 string characters out of 5841209
+ 334757 words of memory out of 5000000
+ 19837 multiletter control sequences out of 15000+600000
  481300 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,8n,62p,251b,130s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 55i,9n,62p,251b,130s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ba
 se/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on WuT_seminar_HeSe2022.pdf (1 page, 33672 bytes).
+Output written on WuT_seminar_HeSe2022.pdf (1 page, 35672 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
