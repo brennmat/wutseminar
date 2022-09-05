@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.8.9)  29 AUG 2022 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex 2022.8.9)  5 SEP 2022 09:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -170,6 +170,11 @@ Underfull \hbox (badness 4229) in paragraph at lines 29--31
  []
 
 
+Underfull \hbox (badness 3758) in paragraph at lines 35--36
+[]\OT1/pplx/m/n/12 Degassing, dat-ing and the di-rec-tion of
+ []
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 44--45
 []\OT1/pplx/m/n/12 Andres Ve-lasquez
  []
@@ -199,7 +204,7 @@ Here is how much of TeX's memory you used:
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/ba
 se/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on WuT_seminar_HeSe2022.pdf (1 page, 36346 bytes).
+Output written on WuT_seminar_HeSe2022.pdf (1 page, 36425 bytes).
 PDF statistics:
  19 PDF objects out of 1000 (max. 8388607)
  11 compressed objects within 1 object stream
